@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineer Intern @ Capital One<br />
-  <sub>Jun. 2026 - Present</sub><br /><br />
+  <sub>Jun. 2026 - Aug. 2026</sub><br /><br />
   Prev. Software Engineer Intern @ Integral Ad Science<br />
   <sub>Jun. 2025 - May. 2026</sub><br /><br />
   Lead Engineer (Volunteer) @ Patina Network<br />
